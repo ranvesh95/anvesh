@@ -2,8 +2,11 @@ Front_End: HTML, CSS, JavaScript
 Backed_End: SQL, PL/SQL
 Languages: C, C++, Java
 Frameworks: AngularJS, EmberJS, NodeJS
+IDE's: Eclipse, NetBeans, Visual Studio Code
 
 Academics:
 
 Master's: University of Illinois at Springfield
 Bachelor's: JBIET affliated to JNTUH
+
+
