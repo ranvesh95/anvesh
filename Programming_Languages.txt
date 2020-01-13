@@ -9,4 +9,9 @@ Academics:
 Master's: University of Illinois at Springfield
 Bachelor's: JBIET affliated to JNTUH
 
+Projects:
+
+A1 Auto Repair (Using SQL)
+Super Rentals  (Using EmberJS)
+
 
